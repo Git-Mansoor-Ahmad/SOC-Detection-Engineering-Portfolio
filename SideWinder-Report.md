@@ -26,4 +26,3 @@ This ensures that only randomized 32-character JavaScript files are flagged, min
 ## 5. Visual Evidence
 The rule was validated using the Wazuh Ruleset Test tool. The logic successfully triggered a match against the test string `5f3c2e1a8b9d0c7e6f5a4b3d2e1f0a9b.js`.
 
-![SideWinder Regex Match](Evidence/Rejix_Test_string.png)
