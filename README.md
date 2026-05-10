@@ -1,13 +1,4 @@
-# 🛡️ SOC Detection Engineering Portfolio (Phase 3)
-> **The Dual-Track Matrix: Correlating Attack & Detection**
-
-### 📋 Overview
-This repository contains the Blue Team documentation for my Phase 3 project. It focuses on engineering high-fidelity detection rules for advanced threat actors.
-
-### 🔗 Collaboration (Dual-Track)
-* **Threat Research (Red Team):** [Waqas-Ali-Khan](https://github.com/Waqas-Ali-Khan)
-* **Detection Logic (Blue Team):** [Your Name] (This Repo)
-
+# 🛡️ SOC Detection Engineering Portfolio
 ### 🚀 Key Projects
 #### 1. SideWinder APT Detection
 * **Scenario:** Documenting `.lnk` payload execution and C2 beaconing.
