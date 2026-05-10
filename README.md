@@ -12,7 +12,6 @@
 #### 3. Inferno Drainer Crypto Fraud
 * **Scenario:** Identification of high-entropy JavaScript UUIDs used in drainer scripts.
 * **Detection Logic:** Pattern-based detection using **Regular Expressions (Regex)** to catch randomized 32-character filenames.
-* **Report:** [Inferno-Drainer-Analysis.md](./Reports/Inferno-Drainer-Analysis.md)
 
 ### 🏆 Elite Differentiator: Master Attack Timeline
 * **[Unified Correlation View](./Master-Attack-Timeline.md):** A master dashboard showing the synchronized progression of Phishing -> PowerShell Hijacking -> C2 Beaconing -> Lateral Movement.
